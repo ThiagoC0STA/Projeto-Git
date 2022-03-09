@@ -14,3 +14,7 @@ Git commit -m "" = da o título para o seu commit.
 Git branch -M "" = muda o nome principal da commit.
 Git remote add origin = cole o link do repositorio do github, para conecta-los
 Git remote set-url origin = reseta o link
+
+### Video inspiração:
+
+https://www.youtube.com/watch?v=UBAX-13g8OM&list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8&ab_channel=RafaellaBallerini
