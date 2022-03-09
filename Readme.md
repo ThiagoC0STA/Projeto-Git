@@ -4,12 +4,13 @@
 
 Porque queremos que todas as informações que temos na nossa máquina vá para o github também, assim ficará tudo na plataforma.
 
-Commands:
-    Git init = inicia um repositório git vazio. 
-    Git add = manda os arquivos para a area de standing.
-    Git status = mostra o status atual do git.
-    Git commit -m "" = da o título para o seu commit.
-    Git branch -M "" = muda o nome principal da commit.
-    Git remote add origin = cole o link do repositorio do github, para conecta-los
-    Git remote set-url origin = reseta o link
-    
+## Commands:
+
+Git init = inicia um repositório git vazio. 
+Git add = manda os arquivos para a area de standing.
+Git status = mostra o status atual do git.
+Git commit -m "" = da o título para o seu commit.
+Git branch -M "" = muda o nome principal da commit.
+Git remote add origin = cole o link do repositorio do github, para conecta-los
+Git remote set-url origin = reseta o link
+  
